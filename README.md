@@ -7,10 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerkr0&label=Profile%20views&color=0e75b6&style=flat" alt="omerkr0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerkr0" alt="omerkr0" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/omer_00_" target="blank"><img src="https://img.shields.io/twitter/follow/omer_00_?logo=twitter&style=for-the-badge" alt="omer_00_" /></a> </p>
-
 - 👀 I am interested in web development.
 
 - 🌱 I’m currently learning **Javascript,React**
