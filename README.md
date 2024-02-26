@@ -3,7 +3,7 @@
 
 <h1>About</h1>
 
-- I graduated from Kırşehir Ahi Evran University Web Design and Coding Department. I am interested in web development field. I am highly motivated to constantly improve myself and to advance myself professionally.
+- I am interested in web development field. I am highly motivated to constantly improve myself and to advance myself professionally.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerkr0&label=Profile%20views&color=0e75b6&style=flat" alt="omerkr0" /> </p>
 
