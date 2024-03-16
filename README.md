@@ -9,7 +9,7 @@
 
 - 👀 I am interested in web development.
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **omerkaramanx@gmail.com**
 
